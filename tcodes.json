@@ -170,6 +170,11 @@
         "keywords": "testi messaggi errori avvisi"
     },
     {
+        "code": "SE93",
+        "descr": "Gestione transazioni custom.",
+        "keywords": "transazione tcode transaction"
+    },
+    {
         "code": "SEGW",
         "descr": "Gestione servizi custom gateway.",
         "keywords": "servizi custom gateway odata"
@@ -190,6 +195,26 @@
         "keywords": "servizi web odata rest"
     },
     {
+        "code": "SLG1",
+        "descr": "Visualizza log applicativi.",
+        "keywords": "log applicazione abap"
+    },
+    {
+        "code": "SNRO",
+        "descr": "Range numeratori.",
+        "keywords": "number range numeratori"
+    },
+    {
+        "code": "SLXT",
+        "descr": "Trasporto traduzioni SE63.",
+        "keywords": "trasporto cr traduzione localizzazione"
+    },
+    {
+        "code": "SM04",
+        "descr": "Gestione sessioni utente.",
+        "keywords": "sessione utente connessioni"
+    },
+    {
         "code": "SM30",
         "descr": "Apertura Maintenance View.",
         "keywords": "maintenance view"
@@ -207,7 +232,7 @@
     {
         "code": "SM50",
         "descr": "Task Manager.",
-        "keywords": "task manager processi"
+        "keywords": "log task manager processi"
     },
     {
         "code": "SM59",
@@ -227,7 +252,7 @@
     {
         "code": "SOIN",
         "descr": "Email in ingresso su server SMTP.",
-        "keywords": "email SMTP"
+        "keywords": "posta elettronica email SMTP"
     },
     {
         "code": "SPAD",
@@ -242,17 +267,17 @@
     {
         "code": "ST22",
         "descr": "Elenco errori runtime.",
-        "keywords": "errori runtime"
+        "keywords": "errori runtime dump"
     },
     {
         "code": "STMS",
         "descr": "Gestione code trasporto.",
-        "keywords": "code CR change request"
+        "keywords": "code CR change request trasporto"
     },
     {
         "code": "SU01",
         "descr": "Gestione Utenti.",
-        "keywords": "gestione utenti"
+        "keywords": "gestione utenti ruoi permessi"
     },
     {
         "code": "SU53",
@@ -275,6 +300,11 @@
         "keywords": "handler eventi workflow task"
     },
     {
+        "code": "SWEC",
+        "descr": "Configura eventi su modifica documenti.",
+        "keywords": "eventi modifica"
+    },
+    {
         "code": "SWEL",
         "descr": "Visualizza trace eventi.",
         "keywords": "trace eventi log"
@@ -292,7 +322,7 @@
     {
         "code": "SWI1",
         "descr": "Log workitem.",
-        "keywords": "log workitem work item"
+        "keywords": "log workitem work item task workflow"
     },
     {
         "code": "SWIA",
