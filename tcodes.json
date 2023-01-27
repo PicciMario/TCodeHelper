@@ -190,6 +190,11 @@
         "keywords": "transazioni nomi tecnici parametri"
     },
     {
+        "code": "SE63",
+        "descr": "Traduzioni testi.",
+        "keywords": "traduzione localizzazione testi"
+    },
+    {
         "code": "SICF",
         "descr": "Gestione servizi WEB.",
         "keywords": "servizi web odata rest"
