@@ -45,6 +45,16 @@
         "keywords": "carica upload file"
     },
     {
+        "code": "CL02",
+        "descr": "Visualizza classe caratteristiche.",
+        "keywords": "caratteristica classificazione classe"
+    },
+    {
+        "code": "CT04",
+        "descr": "Visualizza caratteristica.",
+        "keywords": "caratteristica classificazione"
+    },
+    {
         "code": "EDOC_COCKPIT",
         "descr": "Coockpit e-document.",
         "keywords": "coockpit e-document edocument"
