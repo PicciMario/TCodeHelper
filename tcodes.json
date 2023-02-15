@@ -70,6 +70,11 @@
         "keywords": "IDOC analisi struttura contenuto"
     },
     {
+        "code": "IE02",
+        "descr": "Modifica equipment",
+        "keywords": "equipment"
+    },
+    {
         "code": "ME32K",
         "descr": "Modifica contratti acquisto.",
         "keywords": "contratto acquisto"
@@ -227,7 +232,7 @@
     {
         "code": "SM04",
         "descr": "Gestione sessioni utente.",
-        "keywords": "sessione utente connessioni"
+        "keywords": "sessione utente connessioni login"
     },
     {
         "code": "SM30",
@@ -238,6 +243,11 @@
         "code": "SM34",
         "descr": "Apertura Cluster Maintenance View.",
         "keywords": "cluster maintenance view"
+    },
+    {
+        "code": "SM36",
+        "descr": "Crea nuovo job.",
+        "keywords": "job creazione"
     },
     {
         "code": "SM37",
