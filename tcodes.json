@@ -407,7 +407,7 @@
     {
         "code": "ME91F",
         "descr": "Crea solleciti OdA.",
-        "keywords": "solleciti OdA purchase order"
+        "keywords": "solleciti OdA purchase order ordini acquisto"
     },
     {
         "code": "ME9F",
@@ -418,5 +418,20 @@
         "code": "MM02",
         "descr": "Modifica anagrafica materiali.",
         "keywords": "anagrafica materiali"
+    },
+    {
+        "code": "XK03",
+        "descr": "Anagrafica fornitori.",
+        "keywords": "anagrafica fornitori supplier"
+    },
+    {
+        "code": "MIGO",
+        "descr": "Registra entrata merce.",
+        "keywords": "bolla entrata merci registrazione"
+    },
+    {
+        "code": "MIRO",
+        "descr": "Registra fattura.",
+        "keywords": "fattura registrazione"
     }
 ]
