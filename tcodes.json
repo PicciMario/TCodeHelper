@@ -205,6 +205,11 @@
         "keywords": "transazioni nomi tecnici parametri"
     },
     {
+        "code": "SE61",
+        "descr": "Gestione documenti (testi estesi).",
+        "keywords": "testi estesi documenti"
+    },
+    {
         "code": "SE63",
         "descr": "Traduzioni testi.",
         "keywords": "traduzione localizzazione testi"
@@ -213,6 +218,11 @@
         "code": "SICF",
         "descr": "Gestione servizi WEB.",
         "keywords": "servizi web odata rest"
+    },
+    {
+        "code": "SLG0",
+        "descr": "Crea oggetto e sotto-oggetto log.",
+        "keywords": "log applicazione abap"
     },
     {
         "code": "SLG1",
@@ -271,8 +281,8 @@
     },
     {
         "code": "SO10",
-        "descr": "Gestione testi estesi.",
-        "keywords": "testi estesi"
+        "descr": "Gestione testi standard.",
+        "keywords": "testi standard"
     },
     {
         "code": "SOIN",
