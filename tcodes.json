@@ -35,6 +35,11 @@
         "keywords": "cartelle filesystem file share"
     },
     {
+        "code": "BAPI",
+        "descr": "BAPI Explorer - lista BAPI.",
+        "keywords": "bapi explorer lista elenco"
+    },
+    {
         "code": "CG3Y",
         "descr": "Download file dalla macchina SAP.",
         "keywords": "scarica download file"
